@@ -1,0 +1,38 @@
+{
+  "name": "node-red-contrib-oee-fsm",
+  "version": "0.0.1",
+  "description": "A Node-RED node to create a simple finite state machine with states off, on, working, idle, and alarm condition.",
+  "homepage": "https://github.com/hj91/node-red-contrib-oee-fsm",
+  "bugs": "https://github.com/hj91/node-red-contrib-oee-fsm/issues",
+  "license": "GPL-3.0",
+  "author": {
+    "name": "Harshad Joshi",
+    "email": "harshad@bufferstack.io",
+    "url": "https://bufferstack.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hj91/node-red-contrib-oee-fsm"
+  },
+  "keywords": [
+    "node-red",
+    "finite",
+    "state",
+    "machine",
+    "FSM",
+    "Finite State Machine",
+    "Bufferstack.IO",
+    "Digital Twins",
+    "Industry 4.0",
+    "OEE",
+    "Pune",
+    "India",
+    "Harshad Joshi"
+  ],
+  "node-red": {
+    "nodes": {
+      "oee-diagram": "oee-statediagram.js"
+    }
+  }
+}
+
